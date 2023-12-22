@@ -57,7 +57,7 @@ body{
     font-size: 25px;
     color: white;
     cursor: pointer;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 .container button:hover{
