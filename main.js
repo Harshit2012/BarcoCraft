@@ -3,6 +3,10 @@ let qr_img = document.getElementById("qr-img");
 let qrText = document.getElementById("qrText");
 let popup = document.getElementById("popup");
 
+$(window).load(function() {
+    $(".se-pre-con").fadeOut("slow");;
+});
+
 function open_popup(){
     popup.classList.add("open_popup");
 }
