@@ -1,4 +1,11 @@
 # QR Code Generator
-This website can generate QR code.
-If you type a text and generate it will show you text after you scan the QR code.
-![qr_code_sc_shot](https://github.com/Harshit2012/Qr_Code_Generator/assets/105143145/352a89e9-ea5d-4db4-ab03-277c7db2bb16)
+A simple web-based QR code generator that allows you to create QR codes for various purposes. This tool is implemented using HTML, CSS, and JavaScript, providing an easy and convenient way to generate QR codes for URLs, text, or any data you want to share.  
+## Features
+- **Easy-to-Use**: Interface: Generate QR codes with a user-friendly interface.
+- **Multiple Formats**: Create QR codes for URLs, text, or any custom data.
+- **Dynamic Updates**: Instantly view changes to the QR code as you input or modify data.
+- **Download Option**: Download generated QR codes for offline use.
+
+## Try it Out
+Try this website by clicking (here)[www.google.com]  
+Feel free to contribute, report issues, or suggest improvements to enhance the functionality and usability of this QR code generation tool.
