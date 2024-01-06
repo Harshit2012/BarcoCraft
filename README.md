@@ -7,5 +7,5 @@ A simple web-based QR code generator that allows you to create QR codes for vari
 - **Download Option**: Download generated QR codes for offline use.
 
 ## Try it Out
-Try this website by clicking (here)[[www.google.com]https://harshit2012.github.io/Qr_Code_Generator/]  
+Try this website by clicking [here](https://harshit2012.github.io/Qr_Code_Generator/)  
 Feel free to contribute, report issues, or suggest improvements to enhance the functionality and usability of this QR code generation tool.
