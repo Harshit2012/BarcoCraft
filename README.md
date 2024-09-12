@@ -5,9 +5,7 @@ A simple web-based QR code generator that allows you to create QR codes for vari
 - **Multiple Formats**: Create QR codes for URLs, text, or any custom data.
 - **Dynamic Updates**: Instantly view changes to the QR code as you input or modify data.
 - **Download Option**: Download generated QR codes for offline use.
-
-## Try it Out
-Try this website by clicking [here](https://harshit2012.github.io/Qr_Code_Generator/)  
+- **Responsive Styling**: It has responsive styling using bootstrap. 
 
 ## LICENSE
 This repository is under MIT License.
