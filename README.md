@@ -1,5 +1,5 @@
 # BarcoCraft
-A simple web-based QR code generator that allows you to create QR codes for various purposes. This tool is implemented using HTML, CSS, and JavaScript, providing an easy and convenient way to generate QR codes for URLs, text, or any data you want to share. API of goqr.me is used.
+A simple web-based QR code generator that allows you to create QR codes for various purposes. API of goqr.me is used.
 ## Features
 - **Easy-to-Use**: Interface: Generate QR codes with a user-friendly interface.
 - **Multiple Formats**: Create QR codes for URLs, text, or any custom data.
