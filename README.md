@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logoQr.jpg" width="200px" height="200px">
+</p>
+
 # BarcoCraft
 A simple web-based QR code generator that allows you to create QR codes for various purposes. API of goqr.me is used.
 ## Features
